@@ -106,7 +106,7 @@ def main():
 	matchupPayoffs = 2*matchups - 1
 	allWinRates = getAllWinRates(matchupPayoffs,10)
 	#Plot will output to postscript file
-	img = plotIntervals(allWinRates,True,-0.02, fontsize=8)
+	img = plotIntervals(allWinRates,True,-0.02)
 	img.get_figure().savefig('imagefile.pdf')
 
 
