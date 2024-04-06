@@ -18,5 +18,6 @@ running
             for DK: e.g. Standard | Diamond-Legend | Past Day | All Regions | Death Knight)
                 PS most other filters don't affect the following data copy pasted
         copy paste the "Vs Class" to the corresponding txt file (e.g. dk.txt) (X11 times)
-    C)  python3 bounds.py
+    C)  ./parse_text_files.sh
+        python3 bounds.py
             and see the PDF and other generated file
