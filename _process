@@ -1,4 +1,4 @@
-Venv and package installation and updat
+Venv and package installation and updating
     1. python3 -m venv myenv (once)
     2. source myenv/bin/activate
     3. pip install -r requirements.txt
@@ -15,6 +15,4 @@ running
             for DK: e.g. Standard | Diamond-Legend | Past Day | All Regions | Death Knight)
                 PS most other filters don't affect the following data copy pasted
         copy paste the "Vs Class" to the corresponding txt file (e.g. dk.txt)
-    C)
-
-    python3 bounds
+    C)  python3 bounds.py
