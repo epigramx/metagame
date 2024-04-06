@@ -1,0 +1,11 @@
+Death Knight 	52.4 	2723
+Demon Hunter 	41.3 	3075
+Druid 	44.7 	707
+Hunter 	47.3 	628
+Mage 	58.0 	1134
+Paladin 	45.7 	247
+Priest 	48.0 	508
+Rogue 	50.2 	1159
+Shaman 	55.9 	569
+Warlock 	58.1 	1397
+Warrior 	35.8 	2673
