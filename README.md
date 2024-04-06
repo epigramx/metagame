@@ -10,7 +10,7 @@
 ## Fork's notes:
 1) Initially based on the presentation at https://www.youtube.com/watch?v=miu3ldl-nY4
 2) See the _process text file for details on how to install and run
-3) Mainly you copy paste data from d0nkey's "As Class" X 11
+3) Mainly you copy paste data from d0nkey's "VS Class" X 11
 
 ## metagame notes from the initial repo from 9 years ago
 Compute metagame bounds from matchup charts.
