@@ -2,7 +2,3 @@ pandas
 matplotlib
 pulp
 seaborn
-# pandas==0.17.1
-# matplotlib==1.5.3
-# pulp==1.6.1
-# seaborn==0.7.0
