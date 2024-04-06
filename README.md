@@ -5,7 +5,7 @@
 ![results](imagefile.png)
 
 ### Interpretation of the output:
-"Based on those win rates you input per class, the class will be played and be competitive between these factors of played (the image goes from 0% played to 50% on the X axis). E.g. in the above example DH will be competitive to play even if it's played by 50% of players (the practical explanation is "because it usually wins unless it's purely mirrored").
+"Based on those win rates you input per class, the class will be played and be competitive between these factors of played (the image goes from 0% played to 50% on the X axis). E.g. in the above example DH will be competitive to play even if it's played by [up to] 50% of players (the practical explanation is "because it usually wins unless it's purely mirrored").
 
 ## Fork's notes:
 1) Initially based on the presentation at https://www.youtube.com/watch?v=miu3ldl-nY4
