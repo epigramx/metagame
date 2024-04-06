@@ -1,7 +1,10 @@
 Venv and package installation and updating
-    1. python3 -m venv myenv (once)
+    1. python3 -m venv myenv
+        (only done once)
     2. source myenv/bin/activate
+        (every time)
     3. pip install -r requirements.txt
+        (python packages)
 
 to latest versions (when in the venv):
     pip install --upgrade -r requirements.txt
@@ -10,9 +13,10 @@ running
     A)
         source myenv/bin/activate
     B)
-        go to donkey
-        select up to "Class"
+        go to d0nkey
+        select up to "Class" (you must select a main class X 11)
             for DK: e.g. Standard | Diamond-Legend | Past Day | All Regions | Death Knight)
                 PS most other filters don't affect the following data copy pasted
-        copy paste the "Vs Class" to the corresponding txt file (e.g. dk.txt)
+        copy paste the "Vs Class" to the corresponding txt file (e.g. dk.txt) (X11 times)
     C)  python3 bounds.py
+            and see the PDF and other generated file
