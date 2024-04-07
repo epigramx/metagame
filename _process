@@ -19,5 +19,5 @@ running
                 PS most other filters don't affect the following data copy pasted
         copy paste the "Vs Class" to the corresponding txt file (e.g. dk.txt) (X11 times)
     C)  ./parse_text_files.sh
-        python3 bounds.py
+        ./bounds.py
             and see the PDF and other generated file

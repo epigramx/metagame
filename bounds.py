@@ -1,3 +1,5 @@
+#!myenv/bin/python
+
 # mine: initial base repo was found after watching https://www.youtube.com/watch?v=miu3ldl-nY4 
 
 #import matplotlib
