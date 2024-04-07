@@ -16,6 +16,7 @@ do
 
     echo >> "$matchups_data_file"
 
+    rm output.txt output2.txt
 
 done
 
